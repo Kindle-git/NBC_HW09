@@ -1,4 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// CH04NBG.cpp
 
 #include "CH04NBG.h"
 #include "Modules/ModuleManager.h"
