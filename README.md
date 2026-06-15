@@ -45,6 +45,3 @@
 * **Engine:** Unreal Engine 5
 * **Language:** C++
 * **Version Control:** Git (Fork)
-
-## 📝 TIL (Today I Learned)
-* [여기에 본인의 티스토리 블로그 TIL 링크를 적어주세요. 예: 게임 모드와 플레이어 스테이트를 활용한 메모리 관리 및 동기화 구현 과정]
